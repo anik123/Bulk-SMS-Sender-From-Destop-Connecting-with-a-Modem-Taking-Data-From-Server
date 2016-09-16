@@ -1,0 +1,61 @@
+C:\Documents and Settings\Rahimin\Desktop\BillingSystemUsingSMS\BSUSMS\SMSManagement\bin\Debug\SMSManagement.exe
+C:\Documents and Settings\Rahimin\Desktop\BillingSystemUsingSMS\BSUSMS\SMSManagement\bin\Debug\SMSManagement.pdb
+C:\Documents and Settings\Rahimin\Desktop\BillingSystemUsingSMS\BSUSMS\SMSManagement\bin\Debug\SMS.Helper.dll
+C:\Documents and Settings\Rahimin\Desktop\BillingSystemUsingSMS\BSUSMS\SMSManagement\bin\Debug\SMS.Helper.pdb
+C:\Documents and Settings\Rahimin\Desktop\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Rahimin\Desktop\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.Form1.resources
+C:\Documents and Settings\Rahimin\Desktop\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.Properties.Resources.resources
+C:\Documents and Settings\Rahimin\Desktop\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Rahimin\Desktop\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Rahimin\Desktop\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.exe
+C:\Documents and Settings\Rahimin\Desktop\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.pdb
+C:\Users\DCL\Desktop\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.exe
+C:\Users\DCL\Desktop\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.pdb
+C:\Users\DCL\Desktop\BillingSystemUsingSMS\BSUSMS\SMSManagement\bin\Debug\SMSManagement.exe
+C:\Users\DCL\Desktop\BillingSystemUsingSMS\BSUSMS\SMSManagement\bin\Debug\SMSManagement.pdb
+C:\Users\DCL\Desktop\BillingSystemUsingSMS\BSUSMS\SMSManagement\bin\Debug\SMS.Helper.dll
+C:\Users\DCL\Desktop\BillingSystemUsingSMS\BSUSMS\SMSManagement\bin\Debug\SMS.Helper.pdb
+C:\Users\DCL\Desktop\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DCL\Desktop\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.Form1.resources
+C:\Users\DCL\Desktop\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.Properties.Resources.resources
+C:\Users\DCL\Desktop\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DCL\Desktop\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DCL\Desktop\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.SendSMS.resources
+G:\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.exe
+G:\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.pdb
+G:\BillingSystemUsingSMS\BSUSMS\SMSManagement\bin\Debug\SMSManagement.exe
+G:\BillingSystemUsingSMS\BSUSMS\SMSManagement\bin\Debug\SMSManagement.pdb
+G:\BillingSystemUsingSMS\BSUSMS\SMSManagement\bin\Debug\SMS.Helper.dll
+G:\BillingSystemUsingSMS\BSUSMS\SMSManagement\bin\Debug\SMS.Helper.pdb
+G:\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.Form1.resources
+G:\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.Properties.Resources.resources
+G:\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.SendSMS.resources
+G:\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.exe
+F:\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.pdb
+F:\BillingSystemUsingSMS\BSUSMS\SMSManagement\bin\Debug\SMSManagement.exe
+F:\BillingSystemUsingSMS\BSUSMS\SMSManagement\bin\Debug\SMSManagement.pdb
+F:\BillingSystemUsingSMS\BSUSMS\SMSManagement\bin\Debug\SMS.Helper.dll
+F:\BillingSystemUsingSMS\BSUSMS\SMSManagement\bin\Debug\SMS.Helper.pdb
+F:\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.Form1.resources
+F:\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.Properties.Resources.resources
+F:\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.SendSMS.resources
+F:\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\BillingSystemUsingSMS\BSUSMS\SMSManagement\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.exe
+D:\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.pdb
+D:\BSUSMS\SMSManagement\bin\Debug\SMSManagement.exe
+D:\BSUSMS\SMSManagement\bin\Debug\SMSManagement.pdb
+D:\BSUSMS\SMSManagement\bin\Debug\SMS.Helper.dll
+D:\BSUSMS\SMSManagement\bin\Debug\SMS.Helper.pdb
+D:\BSUSMS\SMSManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.Form1.resources
+D:\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.Properties.Resources.resources
+D:\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.SendSMS.resources
+D:\BSUSMS\SMSManagement\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\BSUSMS\SMSManagement\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.Loading.resources
+D:\BSUSMS\SMSManagement\obj\x86\Debug\SMSManagement.SendSmsUI.resources

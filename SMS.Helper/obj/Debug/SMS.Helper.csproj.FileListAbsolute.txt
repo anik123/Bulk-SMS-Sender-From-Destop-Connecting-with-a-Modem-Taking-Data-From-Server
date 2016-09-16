@@ -1,0 +1,25 @@
+C:\Documents and Settings\Rahimin\Desktop\BillingSystemUsingSMS\BSUSMS\SMS.Helper\bin\Debug\SMS.Helper.dll
+C:\Documents and Settings\Rahimin\Desktop\BillingSystemUsingSMS\BSUSMS\SMS.Helper\bin\Debug\SMS.Helper.pdb
+C:\Documents and Settings\Rahimin\Desktop\BillingSystemUsingSMS\BSUSMS\SMS.Helper\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Rahimin\Desktop\BillingSystemUsingSMS\BSUSMS\SMS.Helper\obj\Debug\SMS.Helper.dll
+C:\Documents and Settings\Rahimin\Desktop\BillingSystemUsingSMS\BSUSMS\SMS.Helper\obj\Debug\SMS.Helper.pdb
+C:\Users\DCL\Desktop\BillingSystemUsingSMS\BSUSMS\SMS.Helper\bin\Debug\SMS.Helper.dll
+C:\Users\DCL\Desktop\BillingSystemUsingSMS\BSUSMS\SMS.Helper\bin\Debug\SMS.Helper.pdb
+C:\Users\DCL\Desktop\BillingSystemUsingSMS\BSUSMS\SMS.Helper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DCL\Desktop\BillingSystemUsingSMS\BSUSMS\SMS.Helper\obj\Debug\SMS.Helper.dll
+C:\Users\DCL\Desktop\BillingSystemUsingSMS\BSUSMS\SMS.Helper\obj\Debug\SMS.Helper.pdb
+G:\BillingSystemUsingSMS\BSUSMS\SMS.Helper\bin\Debug\SMS.Helper.dll
+G:\BillingSystemUsingSMS\BSUSMS\SMS.Helper\bin\Debug\SMS.Helper.pdb
+G:\BillingSystemUsingSMS\BSUSMS\SMS.Helper\obj\Debug\ResolveAssemblyReference.cache
+G:\BillingSystemUsingSMS\BSUSMS\SMS.Helper\obj\Debug\SMS.Helper.dll
+G:\BillingSystemUsingSMS\BSUSMS\SMS.Helper\obj\Debug\SMS.Helper.pdb
+F:\BillingSystemUsingSMS\BSUSMS\SMS.Helper\bin\Debug\SMS.Helper.dll
+F:\BillingSystemUsingSMS\BSUSMS\SMS.Helper\bin\Debug\SMS.Helper.pdb
+F:\BillingSystemUsingSMS\BSUSMS\SMS.Helper\obj\Debug\ResolveAssemblyReference.cache
+F:\BillingSystemUsingSMS\BSUSMS\SMS.Helper\obj\Debug\SMS.Helper.dll
+F:\BillingSystemUsingSMS\BSUSMS\SMS.Helper\obj\Debug\SMS.Helper.pdb
+D:\BSUSMS\SMS.Helper\bin\Debug\SMS.Helper.dll
+D:\BSUSMS\SMS.Helper\bin\Debug\SMS.Helper.pdb
+D:\BSUSMS\SMS.Helper\obj\Debug\ResolveAssemblyReference.cache
+D:\BSUSMS\SMS.Helper\obj\Debug\SMS.Helper.dll
+D:\BSUSMS\SMS.Helper\obj\Debug\SMS.Helper.pdb
